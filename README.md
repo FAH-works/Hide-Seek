@@ -1,24 +1,36 @@
 🔐 Hide & Seek: An Image-Based Steganography System
+
 A secure, intelligent, and user-friendly Django web application for Encoding and Decoding hidden messages within images using LSB (Least Significant Bit) Substitution, enhanced with AI-based Message Validation using Constraint Satisfaction Problem (CSP) techniques.
 
 
 
 📝 Project Description
+
 Hide & Seek is a web-based steganography system that allows users to securely hide secret text messages inside images and extract them later. 
 With added AI-based Message Validator, the system ensures messages are safe, non-offensive, and format-compliant before they are hidden inside images.
 
 
 
 🔍 Key Features
+
 •	✅ Encode messages into images
+
 •	🔓 Decode hidden messages from images
+
 •	🛡️ AI-based Message Validation using CSP constraints:
-o	Filters banned words, emojis, all caps, offensive content
+
+  o	Filters banned words, emojis, all caps, offensive content
+
 •	📂 Two types of gallery: Encoded & To-Encode Images
+
 •	🔐 Secure user login, profile photo display, and password change
+
 •	👥 User-based access control for added privacy
+
 •	🎨 Aesthetic and intuitive UI with smooth navigation
+
 •	📥 Image download option for encoded images
+
 
 
 
