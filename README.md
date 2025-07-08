@@ -13,23 +13,23 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 ------------------------------------------------------------------------------------------------------------------------
 🔍 Key Features
 
-•	✅ Encode messages into images
+    •	✅ Encode messages into images
 
-•	🔓 Decode hidden messages from images
+    •	🔓 Decode hidden messages from images
 
-•	🛡️ AI-based Message Validation using CSP constraints:
+    •	🛡️ AI-based Message Validation using CSP constraints:
 
-  o	Filters banned words, emojis, all caps, offensive content
+      o	Filters banned words, emojis, all caps, offensive content
 
-•	📂 Two types of gallery: Encoded & To-Encode Images
+    •	📂 Two types of gallery: Encoded & To-Encode Images
 
-•	🔐 Secure user login, profile photo display, and password change
+    •	🔐 Secure user login, profile photo display, and password change
 
-•	👥 User-based access control for added privacy
+    •	👥 User-based access control for added privacy
 
-•	🎨 Aesthetic and intuitive UI with smooth navigation
+    •	🎨 Aesthetic and intuitive UI with smooth navigation
 
-•	📥 Image download option for encoded images
+    •	📥 Image download option for encoded images
 
 
 
@@ -39,29 +39,29 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
 👤 Akhi Moon Jahan (ID: C223202)
 
-        •	📝 Designed the Sign Up & Login system with user authentication
+    •	📝 Designed the Sign Up & Login system with user authentication
 
-•	👤 Created the Profile Display and Error Pages for better UX
+    •	👤 Created the Profile Display and Error Pages for better UX
 
-•	🖼️ Developed the Encoded Images Gallery and To-Encode Image Gallery containing some images with preset messages to decode and some images to encode
+    •	🖼️ Developed the Encoded Images Gallery and To-Encode Image Gallery containing some images with preset messages to decode and some images to encode
 
-•	🔍 Contributed to the design and testing of the AI-based Message Validator module
+    •	🔍 Contributed to the design and testing of the AI-based Message Validator module
 
-•	🎨 Styled and refined many UI components for consistency and responsiveness
+    •	🎨 Styled and refined many UI components for consistency and responsiveness
 
 
 
 👤 Fayeza Afrah Hissan (ID: C223206)
 
-•	 🏠 Designed the Home/Index page with navigation, structure, and layout
+    •	 🏠 Designed the Home/Index page with navigation, structure, and layout
 
-•	🧬 Developed the Encoding and Decoding logic and UI
+    •	🧬 Developed the Encoding and Decoding logic and UI
 
-•	💡 Designed and implemented the About page showcasing the project features and concepts
+    •	💡 Designed and implemented the About page showcasing the project features and concepts
 
-•	🧠 Built the AI-based Message Validation feature using CSP
+    •	🧠 Built the AI-based Message Validation feature using CSP
 
-•	📋 Helped design rules and constraints for secure message validation
+    •	📋 Helped design rules and constraints for secure message validation
 
 
 
