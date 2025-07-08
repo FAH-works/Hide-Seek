@@ -19,7 +19,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
     •	🛡️ AI-based Message Validation using CSP constraints:
 
-      o	Filters banned words, emojis, all caps, offensive content
+              o	Filters banned words, emojis, all caps, offensive content
 
     •	📂 Two types of gallery: Encoded & To-Encode Images
 
