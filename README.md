@@ -10,7 +10,7 @@ Hide & Seek is a web-based steganography system that allows users to securely hi
 With added AI-based Message Validator, the system ensures messages are safe, non-offensive, and format-compliant before they are hidden inside images.
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 🔍 Key Features
 
 •	✅ Encode messages into images
@@ -33,7 +33,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 👩‍💻 Contributors & Roles
 
 
@@ -65,7 +65,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 ⚙️ Tech Stack
 
 •	Backend: Django (Python)
@@ -80,7 +80,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 🚀 Steps to Run the Project
 
 📦 1. Install Required Tools
@@ -142,7 +142,7 @@ http://127.0.0.1:8000/
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------
 📄 License
 
 This project is open-source and developed for academic purposes.
