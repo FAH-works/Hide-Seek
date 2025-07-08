@@ -92,26 +92,30 @@ With added AI-based Message Validator, the system ensures messages are safe, non
             •	Django 5.2.3
 
             •	pip (Python package manager)
+            
+            •	Git
 
             •	virtualenv (optional but recommended)
 
     🛠️ 2. Clone the Project Repository
 
-            git clone https://github.com/your-username/hide-and-seek-steganography.git
-
-            cd hide-and-seek-steganography
+            ```bash
+            
+            git clone https://github.com/FAH-works/Hide-Seek.git
+            
+            cd Hide-Seek
 
 
     📁 3. Set Up a Virtual Environment (Optional but recommended)
 
-            python -m venv venv
+            python -m venv .venv
 
-            venv\Scripts\activate   
+            .venv\Scripts\activate   
 
 
     📚 4. Install Required Packages
 
-            pip install django pillow nltk emoji better_profanity
+            pip install -r requirements.txt
 
         Also download the NLTK English word list:
 
