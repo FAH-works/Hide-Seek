@@ -4,13 +4,6 @@ A secure, intelligent, and user-friendly Django web application for Encoding and
 
 
 
-
-
-
-
-
-
-
 📝 Project Description
 
 Hide & Seek is a web-based steganography system that allows users to securely hide secret text messages inside images and extract them later. 
