@@ -1,4 +1,4 @@
-###🔐 Hide & Seek: An Image-Based Steganography System
+### 🔐 Hide & Seek: An Image-Based Steganography System
 
 A secure, intelligent, and user-friendly Django web application for Encoding and Decoding hidden messages within images using LSB (Least Significant Bit) Substitution, enhanced with AI-based Message Validation using Constraint Satisfaction Problem (CSP) techniques.
 
