@@ -76,7 +76,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
     •	Database: SQLite3 (default for Django)
 
-    •	Deployment: Run locally via manage.py runserver (from inside the hideseek folder using PowerShell)
+    •	Deployment: Run locally via manage.py runserver (run from inside the hideseek folder using PowerShell)
 
 
 
