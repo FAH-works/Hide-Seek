@@ -43,7 +43,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
     •	👤 Created the Profile Display and Error Pages for better UX
 
-    •	🖼️ Developed the Encoded Images Gallery and To-Encode Image Gallery containing some images with preset messages to decode and some images to encode
+    •	🖼️ Developed the Encoded Images Gallery and To-Encode Image Gallery 
 
     •	🔍 Contributed to the design and testing of the AI-based Message Validator module
 
@@ -53,7 +53,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
 👤 Fayeza Afrah Hissan (ID: C223206)
 
-    •	 🏠 Designed the Home/Index page with navigation, structure, and layout
+    •	🏠 Designed the Home/Index page with navigation, structure, and layout
 
     •	🧬 Developed the Encoding and Decoding logic and UI
 
@@ -76,7 +76,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 
     •	Database: SQLite3 (default for Django)
 
-    •	Deployment: Run locally via manage.py runserver (run from inside the hideseek folder using PowerShell)
+    •	Deployment: Run locally via manage.py runserver (from inside the hideseek folder using PowerShell)
 
 
 
