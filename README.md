@@ -50,7 +50,7 @@ With added AI-based Message Validator, the system ensures messages are safe, non
 •	🎨 Styled and refined many UI components for consistency and responsiveness
 
 
-
+*************************************************************************************************************************
 👤 Fayeza Afrah Hissan (ID: C223206)
 
 •	🏠 Designed the Home/Index page with navigation, structure, and layout
